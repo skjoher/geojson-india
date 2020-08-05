@@ -1,0 +1,17 @@
+{
+  "name": "geojson-india",
+  "version": "0.0.1",
+  "description": "map resource vue",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiguaxigua/geojson-india.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xiguaxigua/geojson-india/issues"
+  },
+  "homepage": "https://github.com/xiguaxigua/geojson-india#readme"
+}
