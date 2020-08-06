@@ -1,6 +1,6 @@
 {
   "name": "geojson-india",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "map resource vue",
   "main": "index.js",
   "repository": {
